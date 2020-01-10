@@ -1,5 +1,11 @@
 # @keystonejs/mongo-join-builder
 
+## 5.0.3
+
+### Patch Changes
+
+- [`311f9e9a`](https://github.com/keystonejs/keystone/commit/311f9e9a97b4b0b9ffd3f10772ae7cc520e0cc3b) [#2210](https://github.com/keystonejs/keystone/pull/2210) - Refactored the package internals for better DX.
+
 ## 5.0.2
 
 ### Patch Changes
